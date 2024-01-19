@@ -26,7 +26,7 @@ Not required for CIFAR10 and CIFAR100
 `backward_search.py` - It contains the code for pruning using HBGS-B approach with the default args.
 `backward_tree.py` - It contains the code for pruning using HBGTS-B approach with the default args.
 
-`
+
 ### Key Parameters:
 
  `gpu`: cuda gpu device number \
