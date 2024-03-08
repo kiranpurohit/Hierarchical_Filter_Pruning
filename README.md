@@ -1,7 +1,7 @@
 ## Hierarchical Backward-Greedy Algorithms for Filter Pruning
 
 This repository contains the implementation details of our Hierarchical Backward-Greedy Algorithms for Scalable Whole-network
-Filter-Pruning in CNNs approach.
+Filter-Pruning in CNNs.
 
 
 
@@ -19,12 +19,12 @@ Not required for CIFAR10 and CIFAR100
 
 ## Python script overview
 
-`omp.py` - It contains the code for pruning using FP-OMP approach with the default args.
-`omp_search.py` - It contains the code for pruning using HBGS approach with the default args.
-`omp_tree.py` - It contains the code for pruning using HBGTS approach with the default args.
-`backward.py` - It contains the code for pruning using FP-Backward approach with the default args.
-`backward_search.py` - It contains the code for pruning using HBGS-B approach with the default args.
-`backward_tree.py` - It contains the code for pruning using HBGTS-B approach with the default args.
+`omp.py` - It contains the code for pruning using FP-OMP approach.\
+`omp_search.py` - It contains the code for pruning using HBGS approach.\
+`omp_tree.py` - It contains the code for pruning using HBGTS approach.\
+`backward.py` - It contains the code for pruning using FP-Backward approach.\
+`backward_search.py` - It contains the code for pruning using HBGS-B approach.\
+`backward_tree.py` - It contains the code for pruning using HBGTS-B approach.
 
 
 ### Key Parameters:
@@ -34,4 +34,4 @@ Not required for CIFAR10 and CIFAR100
  `step_ft`: number of fine tuning rounds \
  `ft_lr`: learning rate \ 
  `ratio`: whole network pruning ratio \
- `workers`: number of workers \
+ `workers`: number of workers 
