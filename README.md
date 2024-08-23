@@ -29,8 +29,8 @@ Not required for CIFAR10 and CIFAR100
 ### Key Parameters:
 
  `gpu`: cuda gpu device number \
- `batch_size`: training batch size \ 
+ `batch_size`: training batch size \
  `step_ft`: number of fine tuning rounds \
- `ft_lr`: learning rate \ 
+ `ft_lr`: learning rate \
  `ratio`: whole network pruning ratio \
  `workers`: number of workers 
