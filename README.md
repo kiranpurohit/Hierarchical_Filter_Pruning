@@ -1,6 +1,6 @@
 ## A Greedy Hierarchical Approach to Whole-Network Filter-Pruning in CNNs
 
-This repository contains the implementation details of "A Greedy Hierarchical Approach to Whole-Network Filter-Pruning in CNNs" accepted in TMLR 2024.
+This repository contains the implementation details of the paper "A Greedy Hierarchical Approach to Whole-Network Filter-Pruning in CNNs" accepted in TMLR 2024.
 https://openreview.net/forum?id=WzHuebRSgQ
 
 
