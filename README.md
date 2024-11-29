@@ -1,8 +1,9 @@
 ## A Greedy Hierarchical Approach to Whole-Network Filter-Pruning in CNNs
 
 This repository contains the implementation details of the paper "A Greedy Hierarchical Approach to Whole-Network Filter-Pruning in CNNs" accepted at TMLR 2024.
-https://openreview.net/forum?id=WzHuebRSgQ
+https://openreview.net/pdf?id=WzHuebRSgQ
 
+Project Page: https://kiranpurohit.github.io/Hier_Filter_Pruning/
 
 ## Requirements
 The code is written for python `3.6.3`, but should work for other version with some modifications.
