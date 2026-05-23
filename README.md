@@ -35,3 +35,7 @@ Not required for CIFAR10 and CIFAR100
  `ft_lr`: learning rate \
  `ratio`: whole network pruning ratio \
  `workers`: number of workers 
+
+# Acknowledgements
+
+Sourangshu Bhattacharya is grateful for the support of the DST ANRF Core Research Grant number CRG/2023/004600.
